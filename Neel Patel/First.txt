@@ -5,9 +5,4 @@ Sunny day!
 
 April
 
-<<<<<<< HEAD
 Month
-=======
-Months
-
->>>>>>> neelpatel
