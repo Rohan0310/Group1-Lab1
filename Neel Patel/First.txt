@@ -1,11 +1,7 @@
-<<<<<<< First.txt
-<<<<<<< First.txt
+
 Hello Summer!
 
 Sunny day!
-=======
+
 April
->>>>>>> Third.txt
-=======
-April
->>>>>>> Third.txt
+
