@@ -1,1 +1,5 @@
+<<<<<<< fourth.txt
 Confederation College Canada!
+=======
+Ontario
+>>>>>>> sixth.txt
